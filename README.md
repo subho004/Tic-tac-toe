@@ -1,8 +1,8 @@
 #Tic Tac Toe
 
-## A flutter game project with simple AI(Minimax).
+## A simple flutter game(tic-tac-toe) project with simple AI(Minimax).
 
-## Screenshots
+<!-- ## Screenshots
 
 <table>
     <tr>
@@ -17,5 +17,5 @@
         <img src="./screenshots/img2.png" width="300" height="620"> 
         </td>
     </tr>
-</table>
+</table> -->
 
