@@ -2,6 +2,10 @@
 
 ## A simple flutter game(tic-tac-toe) project with simple AI(Minimax).
 
+## Screenshots
+![tictactoe](https://github.com/subho004/Tic-tac-toe/assets/91646273/fc419e51-1c0b-4d47-b8e3-1675e6d64a4d)
+
+
 <!-- ## Screenshots
 
 <table>
